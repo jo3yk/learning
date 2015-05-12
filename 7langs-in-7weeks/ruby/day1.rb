@@ -13,7 +13,7 @@
 # 3. Print your name ten times - exercise_3
 # 4. Print the string 'This is sentence number 1.' where the number 1 changes from 1 to 10 - exercise_4
 # 5. Run a Ruby program from a file - this file!
-# 6. Bonus - Write a program that picks a random number. Let the player guess the number, telling the player whether the guess is too low or too high.
+# 6. Bonus - Write a program that picks a random number. Let the player guess the number, telling the player whether the guess is too low or too high - exercise_6.
 
 def exercise_1
   puts 'Hello, world'
