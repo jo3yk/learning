@@ -1,7 +1,7 @@
 /* FIND:
- 1. Some Io example problems
- 2. An Io community that will answer questions
- 3. A style guide with Io idioms
+ 1. Some Io example problems - https://gist.github.com/jezen/7972975
+ 2. An Io community that will answer questions - https://groups.yahoo.com/neo/groups/iolanguage/info
+ 3. A style guide with Io idioms - http://en.wikibooks.org/wiki/Io_Programming/Io_Style_Guide
 */
 
 /* ANSWER:
